@@ -6,7 +6,7 @@ return [
     'baseUrl' => 'http://mucellit.test',
     'production' => false,
     'siteName' => 'Mücellit.css',
-    'siteDescription' => 'Günümüz mücellitleri için bir eKitap hazırlama alt yapısı',
+    'siteDescription' => 'Mücellitler için bir eKitap hazırlama alt yapısı',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
